@@ -1,0 +1,92 @@
+* {
+    margin-top: 0%;
+    box-sizing: border-box;
+
+}
+
+.navbar-brand{
+    width: 10%;
+}
+.navbar{
+    background-color: #f06292;
+    width: 100vw;
+}
+.nav-item a{
+    color: white;
+    font-weight: bold;
+}
+
+.dropdown-item{
+    color: black !important;
+}
+
+.fa-bars{
+    color: white;
+}
+
+
+
+/* home */
+#home {
+    background-image: url(https://img.freepik.com/free-photo/front-view-basket-with-fruits-mellow-juicy-yellow-fruit-color-summer_140725-24565.jpg?t=st=1741773708~exp=1741777308~hmac=a3b86dac4080653aa6ab942c5a1f184dafa6690791e722ffdab5c9099bf39bb0&w=1060);
+    width: 100vw;
+    height: 120vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.os {
+    color: green;
+    font-size: 50px;
+}
+.d-block{
+    aspect-ratio: 3/2;
+    width: 90%;
+}
+.ph{
+    color:#f06292;
+}
+.ppara{
+    font-size: 20px;
+}
+#about{
+    margin-bottom: 3%;
+}
+.card-img-top{
+    aspect-ratio: 3/3;
+    width: 70%;
+    margin-left: 12%;
+}
+.input-group-text{
+    background-color: #db2360;
+    color: white;
+    border: none;
+    font-weight: bold;
+}
+.form-label{
+    color: #db2360;
+    font-weight: bold;
+}
+/* footer */
+#footer{
+      background-color: #db2360;
+} 
+.fhead{
+color: black;
+text-decoration: 3px solid gold underline;
+}
+.link h6{
+    color: white;
+    font-weight: bold;
+}
+.link {
+    color: beige;
+}
+.icon .fa-brands{
+    color: white;
+    font-style: 30px;
+    margin: 1%;
+}
+.icon .fa-brands:hover{
+    color: aqua;
+}
